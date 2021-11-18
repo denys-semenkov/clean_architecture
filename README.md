@@ -1,8 +1,6 @@
 # Go Clean Architecture
 Example that shows core principles of the Clean Architecture in Golang projects.
 
-## <a href="https://www.denys-semenkov.com/clean-architecture">Blog Post</a>
-
 ## Rules of Clean Architecture by Uncle Bob:
 - Independent of Frameworks. The architecture does not depend on the existence of some library of feature laden software. This allows you to use such frameworks as tools, rather than having to cram your system into their limited constraints.
 - Testable. The business rules can be tested without the UI, Database, Web Server, or any other external element.
